@@ -2,7 +2,7 @@ import requests
 import json
 import webbrowser
 
-api_key = "kBUtp4YTwFGP56Y7A1LihpAXUwaI4hTvDsGCwWJ0"
+api_key = " "
 api_url="https://api.nasa.gov/planetary/apod"
 
 #date = input("Enter date to for astronomy picture of the day (YYYY-MM-DD)>>>")
